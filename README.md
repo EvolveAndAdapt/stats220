@@ -1,5 +1,5 @@
 # Stats220 project
-This repository is for stats220 *project 1* related *files*.
+This repository is for stats220 related *files* and *projects*.
 
 ## Cool songs
 Here are some **songs** if you're interested
