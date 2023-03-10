@@ -8,6 +8,6 @@ Here are some **songs** if you're interested
 - [ANIMA (from Deemo)](https://www.youtube.com/watch?v=don_p8iPYoQ)
 
 # More cool songs
-* [ONE OK ROCK - NO SCARED](https://www.youtube.com/watch?v=qKW4lqj2cNU)
-* [Nujabes - Kujaku (Samurai Champloo)](https://www.youtube.com/watch?v=SGf3XFkK8RQ)
-* [Theme from Lupin III 2016](https://www.youtube.com/watch?v=WABEU3YUsdc)
+1. [ONE OK ROCK - NO SCARED](https://www.youtube.com/watch?v=qKW4lqj2cNU)
+2. [Nujabes - Kujaku (Samurai Champloo)](https://www.youtube.com/watch?v=SGf3XFkK8RQ)
+3. [Theme from Lupin III 2016](https://www.youtube.com/watch?v=WABEU3YUsdc)
